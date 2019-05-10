@@ -5,6 +5,7 @@ data = '2019-05-08'
 
 os.system('cls')
 print('Что смотрим? USD или EUR?')
+
 cons = input('Введи сюда: ')
 os.system('cls')
 if cons == '':
