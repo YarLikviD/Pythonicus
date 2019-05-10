@@ -336,3 +336,8 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+*.suo
+.suo
+*slnx.sqlite
+slnx.sqlite

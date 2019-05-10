@@ -9,7 +9,7 @@ winWidth    = 500
 winHeight   = 500
 mainSurface = pygame.display.set_mode((winWidth,winHeight),0,32)
 pygame.display.set_caption('Collisions test')
-background = pygame.image.load('images//bg1.jpg')
+background = pygame.image.load('images//bg1.jpg' )
 
 # Рисуем неподвижные компоненты на поверхности background
 # Места расположения границ
